@@ -74,5 +74,6 @@
   </Target>
   <Target Name="AfterBuild">
   </Target>
-  -->
+Nova linha 1 
+ -->
 </Project>
