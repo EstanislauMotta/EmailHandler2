@@ -66,6 +66,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+NOVA LINHA 2
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
@@ -74,6 +75,5 @@
   </Target>
   <Target Name="AfterBuild">
   </Target>
-Nova linha 1 
  -->
 </Project>
